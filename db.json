@@ -1,0 +1,57 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Elden Ring",
+      "platform": "PlayStation 5",
+      "date": "February 25, 2022",
+      "desc": "A New World Created By Hidetaka Miyazaki And George R. R. Martin. ELDEN RING, developed by FromSoftware, Inc. and BANDAI NAMCO Entertainment Inc., is a fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki creator of the influential DARK SOULS video game series; and George R.R. Martin author of The New York Times best-selling fantasy series, A Song of Ice and Fire. Danger and discovery lurk around every corner in FromSoftware's largest game to-date. Hidetaka Miyazaki, President and Game Director of FromSoftware Inc. Known for directing critically-acclaimed games in beloved franchises including Armored Core, Dark Souls, and Sekiro: Shadows Die Twice. George R.R. Martin is the #1 New York Times bestselling author of many novels, including the acclaimed series A Song of Ice and Fire - A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast For Crows, and A Dance with Dragons. As a writer-producer, he has worked on The Twilight Zone, Beauty and the Beast, and various feature films and pilots that were never made.",
+      "meta": 96,
+      "user": 7.9,
+      "video": "https://mt-rv-v1.gamespot.com/vr/2021/11/04/eldenring_19min_1080p_8000.mp4",
+      "img": "https://static.metacritic.com/images/products/games/7/cf21bb68e9006d17f7b7bff4cdafe6f6-98.jpg",
+      "genre": "Role-Playing, Action RPG",
+      "mustplay": true
+    },
+    {
+      "id": 2,
+      "title": "God of War",
+      "platform": "PC",
+      "date": "January 14, 2022",
+      "desc": "The God of War has changed... and this is not the Kratos you know. A difficult and unfamiliar road awaits as you explore a stunning retelling of a classic story. Join Kratos as he adventures through a deep and reflective journey of growth, violence and the desire to become a better man for the sake of his son. In a world of monsters, dragons and gods, the weight of responsibility rests heavy on your shoulders -- and when your life is filled with blood and chaos, how can you prevent the mistakes of the past in order to protect your future?",
+      "meta": 93,
+      "user": 8.7,
+      "video": "https://mt-rv-v1.gamespot.com/vr/2021/10/20/god_of_war_announce_trailer_8000.mp4",
+      "img": "https://static.metacritic.com/images/products/games/1/d7bc93f705395a7d9cf86e9e4e572607-98.jpg",
+      "genre": "Action Adventure, Linear",
+      "mustplay": false
+    },
+    {
+      "title": "fwgt",
+      "platform": "gege",
+      "date": "geege",
+      "desc": "gegeg",
+      "meta": "egege",
+      "user": "geger",
+      "video": "geg",
+      "img": "erge",
+      "genre": "ge",
+      "mustplay": "true",
+      "id": 3
+    }
+  ],
+
+  "user": [
+    {
+    "id": "1",
+    "login": "mirivol",
+    "password": "qwerty",
+    "name": "Shiro",    
+    "email": "midorinya@gmail.com",
+    "auth": false
+    }
+  ]
+
+
+
+}
